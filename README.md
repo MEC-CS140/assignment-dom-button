@@ -1,19 +1,18 @@
-# Welcome to CS 140: Computer Science Seminar - Web Development Unit!
+# CS 140: In Class Assignment: Basic Button
 
-Hello, future developers! 🚀 This repository is your starting point for diving into the fascinating world of web development in our class. It's designed to make learning HTML, CSS, and JavaScript both engaging and effective. Let's create amazing in-class notes and projects together!
+## Instructions
 
-## Getting Started
+You have been given some starter code:
 
-To begin, you'll need to create your own copy of this template repository for each class. Here's how you can do that:
+- Blank HTML page
+- JavaScript file with a function called myAlert
 
-1. **Create a New Repository**: Click on the "Use this template" button located at the top of this repository page.
-2. **Name Your Repository**: Give your repository a name that reflects the project or notes you'll be working on.
-3. **Set the Visibility**: Choose if you want your repository to be public or private.
-4. **Create**: Click on "Create repository from template" to get your own version of this template.
+1. Add a button on the HTML page (index.html)
+1. Write some JavaScript code (script.js) inside the function (between the curly braces) that creates an alert
+1. Set up the button in the HTML page to run the alert code inside the function.
+1. Submit assignment repo link on Brightspace.
 
 ## What's Inside?
-
-This template is equipped with the basic structure for web development using HTML, CSS, and JavaScript. Here's what you'll find:
 
 | File Type | Description                                      | How to Use                                 |
 |-----------|--------------------------------------------------|--------------------------------------------|
@@ -21,19 +20,6 @@ This template is equipped with the basic structure for web development using HTM
 | `.css`    | CSS files style your web pages.                  | Use these to make your site look amazing. |
 | `.js`     | JavaScript files add interactivity to your pages. | Bring your pages to life with JS.         |
 
-Feel free to explore and modify these files as you dive deeper into web development!
-
-## Need Help?
-
-If you run into any issues or have questions, don't hesitate to reach out. Remember, web development is all about experimenting and learning from mistakes. So, let's have fun and create something awesome!
-
-## Let's Make It Web-tastic!
-
-We're excited to see what you'll build with this template. Remember, this class is a journey into the creative and technical world of web development. Use this opportunity to express yourself and explore the endless possibilities of the web.
-
-Happy Coding! 🎉
-
----
 
 ## Handy Tags, CSS Rules, and JavaScript Snippets
 
