@@ -10,6 +10,9 @@ You have been given some starter code:
 1. Add a button on the HTML page (index.html)
 1. Write some JavaScript code (script.js) inside the function (between the curly braces) that creates an alert
 1. Set up the button in the HTML page to run the alert code inside the function.
+1. **Extra credit (10 pts)** - Make the alert display the current number of button clicks (example: "you have clicked the button 2 times")
+1. **Extra credit (10)** - Make the alert display the if number is even or odd
+1. **Extra credit (15 pts)** - Make the numbers display on the page instead of in the alert
 1. Submit assignment repo link on Brightspace.
 
 ## What's Inside?
